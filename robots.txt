@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-jtkxdh.salamduit.online/sitemap.xml
